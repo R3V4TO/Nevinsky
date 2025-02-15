@@ -1,0 +1,21 @@
+[
+    { "timestamp": "2025-02-10T12:00:00Z", "usage": 150 },
+    { "timestamp": "2025-02-11T13:00:00Z", "usage": 270 },
+    { "timestamp": "2025-02-12T14:00:00Z", "usage": 189 },
+    { "timestamp": "2025-02-13T12:00:00Z", "usage": 150 },
+    { "timestamp": "2025-02-14T13:00:00Z", "usage": 400 },
+    { "timestamp": "2025-02-15T14:00:00Z", "usage": 180 },
+    { "timestamp": "2025-02-16T12:00:00Z", "usage": 250 },
+    { "timestamp": "2025-02-17T13:00:00Z", "usage": 230 },
+    { "timestamp": "2025-02-18T14:00:00Z", "usage": 180 },
+    { "timestamp": "2025-02-19T12:00:00Z", "usage": 190 },
+    { "timestamp": "2025-02-20T13:00:00Z", "usage": 209 },
+    { "timestamp": "2025-02-21T14:00:00Z", "usage": 180 },
+    { "timestamp": "2025-02-22T12:00:00Z", "usage": 169 },
+    { "timestamp": "2025-02-23T13:00:00Z", "usage": 257 },
+    { "timestamp": "2025-02-24T14:00:00Z", "usage": 180 },
+    { "timestamp": "2025-02-25T12:00:00Z", "usage": 140 },
+    { "timestamp": "2025-02-26T13:00:00Z", "usage": 230 },
+    { "timestamp": "2025-02-27T14:00:00Z", "usage": 140 }
+  ]
+  
